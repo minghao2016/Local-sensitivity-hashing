@@ -1,0 +1,2 @@
+# Local-sensitivity-hashing
+For the given dataset, use a locality sensitive hashing scheme to search for approximate nearest neghbors. Use the following queryset. You can use any parameter choices to obtain the nearest neighbors. Deliverables: 1. The approximate nearest neighbors of the queries.                      2. Describe all the parameters and the reason for choosing them.                     3. The code for building the hash table and searching the tables.
